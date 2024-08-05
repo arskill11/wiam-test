@@ -1,4 +1,4 @@
-DEPLOY:
+DEPLOY: https://main--wiam-test-form.netlify.app/
 
 Время, затраченное на выполнение задания: 5 часов.
 Использованные библиотеки:
